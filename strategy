@@ -1,0 +1,4 @@
+input : numero di chilometri da percorrere ed età
+
+calcoli ( dati i chilometri ed età in prompt andare ad applicare la scontistica in base all'età : 20% per under 18 e 40% per over 65 )
+risultato : numero decimale a 2 cifre decimali
