@@ -10,7 +10,7 @@ if (age <= 18) {
     
 }
 
-else (age > 18, <= 65) {
+else (age >= 65) {
     const priceold = kilometerP - ((40/100)*kilometerP)
     
 }
